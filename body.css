@@ -1,7 +1,7 @@
-body,
-.menu ul {
+body {
     margin: 0;
     padding: 0;
+    background-color: rgba(221, 221, 221, 0.38);
 }
 
 div#pho {
@@ -9,19 +9,23 @@ div#pho {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 40em;
-    padding: 0%;
+    min-height: 50em;
+    box-shadow: 8px 8px 8px black;
+    margin-bottom: 0em;
 
 }
 
 .text {
-    background-color: #9E9E9E;
+    background-color: grey;
+    margin-top: 0em;
+    line-height: 4em;
+    color: white;
     font-size: 20px;
-    margin-bottom: 10em;
+    margin-bottom: 4em;
     text-align: center;
-    height: 5em;
-    margin-top: 0%;
-    line-height: 5em;
+    box-shadow: 8px 8px 8px black;
+
+
 }
 
 
@@ -31,33 +35,59 @@ text {
     margin-bottom: 10em;
 }
 
+.pom {
+    background-color: rgb(65, 65, 65);
+    line-height: 5em;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
+    border-radius: 50em;
+}
+
 .poil {
     width: 500px;
     margin-right: 300px;
     float: right;
+    box-shadow: 8px 8px 8px black;
 
 }
 
 .aba {
-    background-color: #9E9E9E;
+    background-color: grey;
+    color: white;
     line-height: 66.7px;
     font-size: 25px;
     text-align: center;
-    margin-right: 800px;
+    margin-right: 805px;
     margin-left: 200px;
     white-space: pre;
-    margin-bottom: 12em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
+    margin-top: 4em;
+
+
 
 }
 
 .bouton {
     color: black;
     text-decoration: none;
-    background-color: #00860D;
-    border: 30px solid #00860D;
+    background-color: #17ad00;
+    border: 15px solid #17ad00;
     text-align: middle;
+    border: 1% solid;
+    border-radius: 100px;
+    box-shadow: 8px 8px 8px black;
 
 
+}
+
+.bouton:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
 }
 
 .kota {
@@ -65,11 +95,13 @@ text {
     height: 400px;
     float: left;
     margin-left: 200px;
-    margin-bottom: 12em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
 }
 
 .kota1 {
-    background-color: #9E9E9E;
+    background-color: grey;
+    color: white;
     line-height: 80px;
     font-size: 25px;
     text-align: center;
@@ -77,7 +109,9 @@ text {
     margin-left: 720px;
     margin-right: 300px;
     white-space: pre;
-    margin-bottom: 12em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
+
 
 }
 
@@ -87,19 +121,23 @@ text {
     height: 400px;
     margin-right: 300px;
     float: right;
-    margin-bottom: 12em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
 }
 
 .gite1 {
-    background-color: #9E9E9E;
-    line-height: 100px;
+    background-color: grey;
+    color: white;
+    line-height: 80px;
     font-size: 25px;
     text-align: center;
     margin-top: 80px;
-    margin-right: 800px;
+    margin-right: 805px;
     margin-left: 200px;
     white-space: pre;
-    margin-bottom: 12em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
+
 
 }
 
@@ -108,11 +146,13 @@ text {
     height: 400px;
     float: left;
     margin-left: 200px;
-    margin-bottom: 12em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
 }
 
 .jac1 {
-    background-color: #9E9E9E;
+    background-color: grey;
+    color: white;
     line-height: 80px;
     font-size: 25px;
     text-align: center;
@@ -120,7 +160,8 @@ text {
     margin-left: 720px;
     margin-right: 300px;
     white-space: pre;
-    margin-bottom: 12em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
 
 }
 
@@ -129,19 +170,23 @@ text {
     height: 400px;
     margin-right: 300px;
     float: right;
-    margin-bottom: 12em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
 }
 
 .kot1 {
-    background-color: #9E9E9E;
-    line-height:100px;
+    background-color: grey;
+    color: white;
+    line-height: 80px;
     font-size: 25px;
     text-align: center;
     margin-top: 80px;
-    margin-bottom: 12em;
-    margin-right: 800px;
+    margin-bottom: 4em;
+    margin-right: 805px;
     margin-left: 200px;
     white-space: pre;
+    box-shadow: 8px 8px 8px black;
+
 
 }
 
@@ -150,31 +195,36 @@ text {
     height: 400px;
     float: left;
     margin-left: 200px;
-    margin-bottom: 10em;
+    margin-bottom: 4em;
+    box-shadow: 8px 8px 8px black;
 }
 
 .air1 {
-    background-color: #9E9E9E;
-    line-height: 100px;
+    background-color: grey;
+    color: white;
+    line-height: 80px;
     font-size: 25px;
     text-align: center;
     margin-top: 100px;
     margin-left: 720px;
     margin-right: 300px;
     white-space: pre;
+    box-shadow: 8px 8px 8px black;
+
 
 }
 
-h3 {
-
-    background-color: black;
-    border:5px solid black;
-    border-radius: 40px;
+.de {
+    background-color: rgb(65, 65, 65);
+    line-height: 4em;
     color: white;
-    margin-bottom: 5em;
-    margin-top: 8em;
+    height: 4em;
+    margin-bottom: 4em;
+    margin-top: 4em;
     font-size: 30px;
     text-align: center;
+    box-shadow: 8px 8px 8px black;
+    border-radius: 50em;
 
 
 }
@@ -183,6 +233,7 @@ h3 {
     width: 100%;
     margin-top: 10px;
     margin-bottom: 50px;
+    box-shadow: 8px 8px 8px black;
 }
 
 .voir1 {
@@ -193,6 +244,7 @@ h3 {
     margin-left: 200px;
     font-size: 25px;
     margin-bottom: 5em;
+    box-shadow: 8px 8px 8px #aaa;
 }
 
 .voir2 {
@@ -203,7 +255,9 @@ h3 {
     margin-left: 350px;
     font-size: 25px;
     margin-bottom: 5em;
+    box-shadow: 8px 8px 8px #aaa;
 }
+
 .voir3 {
     text-decoration: none;
     background-color: black;
@@ -212,66 +266,110 @@ h3 {
     margin-left: 380px;
     font-size: 25px;
     margin-bottom: 5em;
+    box-shadow: 8px 8px 8px #aaa;
 }
+
+.voir a:hover {
+    background-color: rgba(221, 221, 221, 0.38);
+    color: black;
+    border-color: rgba(221, 221, 221, 0.38);
+}
+
 .foo {
-    display:flex;
-    margin-top:5em;
-    background-color:#9E9E9E;
-    color:black;
+    display: flex;
+    margin-top: 5em;
+    background-color: grey;
+    color: black;
     text-decoration: none;
-    height:150px;
- 
+    height: 10em;
+    margin-bottom: 0%;
+    box-shadow: 8px 8px 8px 8px black;
+
 }
+
+.foo a:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
 .foo li {
     list-style-type: none;
+    margin-bottom: 0%;
 }
+
 .mail {
+    display: flex;
     text-decoration: none;
-
+    margin-top: 4em;
     font-size: 20px;
-    margin-top:50px;
-    color:black;
+    color: black;
+    white-space: pre;
 
 }
+
 .tel {
-    display:block;
-
+    display: flex;
     font-size: 20px;
     text-decoration: none;
-    margin-top:50px;
-    color:black;
+    color: black;
+    white-space: pre;
+
 }
+
 .fac {
-    display:block;
-    color:black;
+    display: flex;
+    color: black;
+    white-space: pre;
+    font-size: 50px;
+    text-decoration: none;
+    margin-left: 100px;
+    margin-top: 90px;
+}
 
-    font-size: 50px;
-    text-decoration: none;
-    margin-top:50px;
-    margin-left:100px;
-    margin-top: 90px;
-}
 .ins {
-    display:block;
-    color:black;
- 
+    display: flex;
+    color: black;
     font-size: 50px;
     text-decoration: none;
-    margin-top:50px;
     margin-top: 90px;
+    white-space: pre;
+    white-space: pre;
 }
+
+.te {
+    display: flex;
+    color: black;
+    font-size: 50px;
+    text-decoration: none;
+    margin-top: 90px;
+    white-space: pre;
+}
+
+.ic {
+    display: flex;
+    color: black;
+    font-size: 50px;
+    text-decoration: none;
+    margin-top: 90px;
+    white-space: pre;
+}
+
 .men {
-    display:block;
-    color:black;
+    display: flex;
+    color: black;
     font-size: 20px;
     text-decoration: none;
-    margin-top:100px;
-    margin-left: 300px;
+    margin-top: 6em;
+    margin-left: 10%;
+
 }
+
 .btn {
-    display:block;
-    color:black;
+    display: flex;
+    color: black;
     text-decoration: none;
     margin-top: 50px;
-    margin-left:250px;
+    margin-left: 14%;
+
 }
