@@ -5,25 +5,24 @@ body {
 }
 
 div#pho {
-    background-image: url(Gite.jpg);
+    background-image: url(images/Gite.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     min-height: 50em;
     box-shadow: 8px 8px 8px black;
-    margin-bottom: 0em;
+    margin-bottom:0%;
 
 }
 
 .text {
     background-color: grey;
-    margin-top: 0em;
-    line-height: 4em;
+    line-height: 200%;
     color: white;
-    font-size: 20px;
-    margin-bottom: 4em;
+    font-size:x-large;
     text-align: center;
     box-shadow: 8px 8px 8px black;
+    margin-bottom: 5%;
 
 
 }
@@ -32,43 +31,44 @@ div#pho {
 text {
     padding: 0;
     margin: 0;
-    margin-bottom: 10em;
+    margin-bottom: 5%;
 }
 
 .pom {
     background-color: rgb(65, 65, 65);
-    line-height: 5em;
-    font-size: 30px;
+    width: 100%;
+    line-height: 200%;
+    font-size:xx-large;
     color: white;
     text-align: center;
-    margin-bottom: 4em;
+    margin-bottom: 5%;
     box-shadow: 8px 8px 8px black;
-    border-radius: 50em;
 }
 
 .poil {
-    width: 500px;
-    margin-right: 300px;
+    width:35%;
+    margin-right:15%;
     float: right;
     box-shadow: 8px 8px 8px black;
+    border-radius: 50px;
+    margin-bottom: 5%;
 
 }
 
 .aba {
     background-color: grey;
+    line-height: 3em;
+    text-align:center;
     color: white;
-    line-height: 66.7px;
-    font-size: 25px;
-    text-align: center;
-    margin-right: 805px;
-    margin-left: 200px;
-    white-space: pre;
-    margin-bottom: 4em;
+    font-size:x-large;
+    margin-right: 51%;
+    margin-left: 25%;
+    margin-bottom: 5%;
     box-shadow: 8px 8px 8px black;
-    margin-top: 4em;
-
-
-
+    margin-top: 5%;
+    border-radius: 50em;
+    border:1em solid grey;
+    
 }
 
 .bouton {
@@ -78,7 +78,7 @@ text {
     border: 15px solid #17ad00;
     text-align: middle;
     border: 1% solid;
-    border-radius: 100px;
+    border-radius: 200px;
     box-shadow: 8px 8px 8px black;
 
 
@@ -91,6 +91,7 @@ text {
 }
 
 .kota {
+    margin-top: 5%;
     width: 520px;
     height: 400px;
     float: left;
@@ -105,12 +106,13 @@ text {
     line-height: 80px;
     font-size: 25px;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 5%;
     margin-left: 720px;
     margin-right: 300px;
     white-space: pre;
     margin-bottom: 4em;
     box-shadow: 8px 8px 8px black;
+    border-radius: 50em;
 
 
 }
@@ -137,6 +139,7 @@ text {
     white-space: pre;
     margin-bottom: 4em;
     box-shadow: 8px 8px 8px black;
+    border-radius: 50em;
 
 
 }
@@ -162,6 +165,7 @@ text {
     white-space: pre;
     margin-bottom: 4em;
     box-shadow: 8px 8px 8px black;
+    border-radius: 50em;
 
 }
 
@@ -186,6 +190,7 @@ text {
     margin-left: 200px;
     white-space: pre;
     box-shadow: 8px 8px 8px black;
+    border-radius: 50em;
 
 
 }
@@ -210,6 +215,7 @@ text {
     margin-right: 300px;
     white-space: pre;
     box-shadow: 8px 8px 8px black;
+    border-radius: 50em;
 
 
 }
