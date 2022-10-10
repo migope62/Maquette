@@ -26,30 +26,27 @@ body {
 
 .menu li {
     list-style-type: none;
-    /* Suppression des puces */
-    float: left;
+    /*Suppressiondespuces*/float: left;
     color: white;
-
+   
 }
 
 .menu a {
     display: block;
-    /* Transformation en block */
-    min-width: 220px;
-    /* Largeur minimale des liens */
-    margin: 10px;
-    /* Marges externes (1 valeurs = 4 directions) */
-    padding: 10px;
-    /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
-    text-align: center;
-    /* Centrage du texte */
-    color: rgb(255, 255, 255);
-    /* Couleur du texte */
-    text-decoration: none;
-    /* Suppression du soulignement */
-    font-size: x-large;
+    /*Transformationenblock*/min-width: 220px;
+    /*Largeurminimaledesliens*/margin: 10px;
+    /*Margesexternes(1valeurs=4directions)*/padding: 10px;
+    /*Margesinternes(2valeurs=haut/basetgauche/droite)*/text-align: center;
+    /*Centragedutexte*/color: rgb(255, 255, 255);
+    /*Couleurdutexte*/text-decoration: none;
+    /*Suppressiondusoulignement*/font-size: x-large;
     background-color: black;
     border-radius: 80%;
+    transition: 0.5s ease-in-out ;
+    -webkit-transition: 0.5s ease-in-out ;
+    -moz-transition: 0.5s ease-in-out ;
+    -ms-transition: 0.5s ease-in-out ;
+    -o-transition: 0.5s ease-in-out ;
 }
 h1 {
     background-color: grey;
