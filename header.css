@@ -1,33 +1,35 @@
 body {
     margin: 0;
     padding: 0;
- }
+    background-color: rgb(179, 178, 178);
+}
+
 .menu {
     display: flex;
     /* Transformation en flexbox */
     /* Suppression des marges internes */
-    background-color:grey;
+    background-color: grey;
     /* Ajout de la couleur d'arrière-plan */
     justify-content: center;
     margin-bottom: 5%;
     box-shadow: 2px 2px 2px black;
-    width:100%;
-    
+    width: 100%;
+
 
 }
 
 .menu a:hover {
-    background-color:white;
-    color:black;
-    border-color:white;
+    background-color: white;
+    color: black;
+    border-color: white;
 }
 
 .menu li {
     list-style-type: none;
     /* Suppression des puces */
     float: left;
-    color:white;
-    
+    color: white;
+
 }
 
 .menu a {
@@ -41,23 +43,24 @@ body {
     /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
     text-align: center;
     /* Centrage du texte */
-    color:rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     /* Couleur du texte */
     text-decoration: none;
     /* Suppression du soulignement */
-    font-size:x-large;
+    font-size: x-large;
     background-color: black;
     border-radius: 80%;
 }
-
 h1 {
-    background-color:rgb(65, 65, 65);
+    background-color: grey;
     line-height: 300%;
-    font-size:xx-large;
+    font-size: xx-large;
     border-radius: 5%;
-    color:white;
+    color: white;
     margin-bottom: 5%;
     text-align: center;
     box-shadow: 2px 2px 2px black;
-    
+    font-family: 'Alkalami', serif;
+font-family: 'Heebo', sans-serif;
+
 }
