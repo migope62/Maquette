@@ -1,14 +1,14 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(179, 178, 178);
+    background-color:#18534F;
 }
 
 .menu {
     display: flex;
     /* Transformation en flexbox */
     /* Suppression des marges internes */
-    background-color: grey;
+    background-color:#226D68;
     /* Ajout de la couleur d'arrière-plan */
     justify-content: center;
     margin-bottom: 5%;
@@ -19,15 +19,15 @@ body {
 }
 
 .menu a:hover {
-    background-color: white;
-    color: black;
-    border-color: white;
+    background-color:black;
+    color:#226D68;
+    border-color:black;
 }
 
 .menu li {
     list-style-type: none;
     /*Suppressiondespuces*/float: left;
-    color: white;
+    color:black;
    
 }
 
@@ -37,23 +37,27 @@ body {
     /*Largeurminimaledesliens*/margin: 10px;
     /*Margesexternes(1valeurs=4directions)*/padding: 10px;
     /*Margesinternes(2valeurs=haut/basetgauche/droite)*/text-align: center;
-    /*Centragedutexte*/color: rgb(255, 255, 255);
+    /*Centragedutexte*/color:black;
     /*Couleurdutexte*/text-decoration: none;
     /*Suppressiondusoulignement*/font-size: x-large;
-    background-color: black;
+    background-color:#226D68;
     border-radius: 80%;
-    transition: 0.5s ease-in-out ;
-    -webkit-transition: 0.5s ease-in-out ;
-    -moz-transition: 0.5s ease-in-out ;
-    -ms-transition: 0.5s ease-in-out ;
-    -o-transition: 0.5s ease-in-out ;
+    transition: 0.85s ease-in-out ;
+    -webkit-transition: 0.85s ease-in-out ;
+    -moz-transition: 0.85s ease-in-out ;
+    -ms-transition: 0.85s ease-in-out ;
+    -o-transition: 0.85s ease-in-out ;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
 }
 h1 {
-    background-color: grey;
+    background-color:#226D68;
     line-height: 300%;
     font-size: xx-large;
     border-radius: 5%;
-    color: white;
+    color:black;
     margin-bottom: 5%;
     text-align: center;
     box-shadow: 2px 2px 2px black;
