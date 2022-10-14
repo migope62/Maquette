@@ -11,7 +11,7 @@ div#pho {
 
 .text {
 
-    background-color:#226D68;
+    background-color: #C7F2A4;
     line-height: 200%;
     color: black;
     font-size: x-large;
@@ -22,7 +22,7 @@ div#pho {
 
 
 .pom {
-    background-color:#226D68;
+    background-color: #C7F2A4;
     line-height: 350%;
     margin-right: 30%;
     margin-left: 30%;
@@ -43,11 +43,11 @@ div#pho {
 .pom a {
     text-decoration: none;
     color: black;
-    transition: 0.85s ease-in-out ;
-    -webkit-transition: 0.85s ease-in-out ;
-    -moz-transition: 0.85s ease-in-out ;
-    -ms-transition: 0.85s ease-in-out ;
-    -o-transition: 0.85s ease-in-out ;
+    transition: 0.85s ease-in-out;
+    -webkit-transition: 0.85s ease-in-out;
+    -moz-transition: 0.85s ease-in-out;
+    -ms-transition: 0.85s ease-in-out;
+    -o-transition: 0.85s ease-in-out;
 }
 
 .poil {
@@ -65,7 +65,7 @@ div#pho {
 }
 
 .aba {
-    background-color:#226D68;
+    background-color: white;
     line-height: 1.5em;
     text-align: center;
     color: black;
@@ -75,38 +75,35 @@ div#pho {
     margin-bottom: 15%;
     box-shadow: 15px 15px 15px black;
     margin-top: 15%;
-    border-radius: 100%;
+
     border: 1px solid black;
     white-space: pre;
     max-height: 1%;
-    -webkit-border-radius:100% ;
-    -moz-border-radius:100%;
-    -ms-border-radius:100% ;
-    -o-border-radius: 100%;
+
 }
 
 .bouton {
-    color:white;
+    color: white;
     text-decoration: none;
-    background-color:black;
+    background-color: black;
     border: 15px solid black;
     text-align: middle;
     border: 1% solid;
     border-radius: 200px;
     box-shadow: 15px 15px 15px black;
-    transition: 0.5s ease-in-out ;
-    -webkit-transition: 0.5s ease-in-out ;
-    -moz-transition: 0.5s ease-in-out ;
-    -ms-transition: 0.5s ease-in-out ;
-    -o-transition: 0.5s ease-in-out ;
+    transition: 0.5s ease-in-out;
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -ms-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
 
 
 }
 
 .bouton:hover {
-    background-color:#18534F;
+    background-color: #18534F;
     color: black;
-    border-color:#18534F;
+    border-color: #18534F;
 }
 
 .kota {
@@ -125,7 +122,7 @@ div#pho {
 }
 
 .kota1 {
-    background-color: #226D68;
+    background-color: white;
     line-height: 3em;
     text-align: center;
     color: black;
@@ -135,8 +132,8 @@ div#pho {
     margin-bottom: 8%;
     box-shadow: 15px 15px 15px black;
     margin-top: 15%;
-    border-radius: 100%;
-    border: 1px solid ;
+
+    border: 1px solid;
     white-space: pre;
 
 }
@@ -156,25 +153,23 @@ div#pho {
 }
 
 .gite1 {
-    background-color: #226D68;
+    background-color: white;
     line-height: 2.5em;
     text-align: center;
     color: black;
     font-size: x-large;
+    border: 1px solid black;
     margin-top: 35%;
     margin-right: 55%;
     margin-left: 22%;
-    margin-bottom: 6%;
-    box-shadow: 15px 15px 15px black;
-    border-radius: 100%;
-    border: 1px solid ;
+    margin-bottom: 6 border: 1px solid;
     white-space: pre;
 
 
 }
 
 .pom1 {
-    background-color:#226D68;
+    background-color: #C7F2A4;
     line-height: 350%;
     margin-right: 30%;
     margin-left: 30%;
@@ -194,11 +189,11 @@ div#pho {
 .pom1 a {
     text-decoration: none;
     color: black;
-    transition: 0.85s ease-in-out ;
-    -webkit-transition: 0.85s ease-in-out ;
-    -moz-transition: 0.85s ease-in-out ;
-    -ms-transition: 0.85s ease-in-out ;
-    -o-transition: 0.85s ease-in-out ;
+    transition: 0.85s ease-in-out;
+    -webkit-transition: 0.85s ease-in-out;
+    -moz-transition: 0.85s ease-in-out;
+    -ms-transition: 0.85s ease-in-out;
+    -o-transition: 0.85s ease-in-out;
 }
 
 
@@ -219,7 +214,7 @@ div#pho {
 
 .jac1 {
     color: black;
-    background-color:  #226D68;
+    background-color: white;
     line-height: 60px;
     text-align: center;
     margin-top: 15%;
@@ -228,12 +223,9 @@ div#pho {
     white-space: pre;
     margin-bottom: 18%;
     box-shadow: 15px 15px 15px black;
-    border-radius:  100%;
-    border: 1px solid ;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+
+    border: 1px solid;
+
 }
 
 .kot {
@@ -241,7 +233,7 @@ div#pho {
     margin-right: 10%;
     float: right;
     margin-top: -3%;
-    margin-bottom:  8%;
+    margin-bottom: 8%;
     box-shadow: 15px 15px 15px black;
     border-radius: 20%;
     -webkit-border-radius: 20%;
@@ -251,8 +243,8 @@ div#pho {
 }
 
 .kot1 {
-    background-color: #226D68;
-    border:1px solid ;
+    background-color: white;
+    border: 1px solid;
     color: black;
     line-height: 70px;
     text-align: center;
@@ -262,7 +254,7 @@ div#pho {
     margin-left: 12%;
     white-space: pre;
     box-shadow: 15px 15px 15px black;
-    border-radius: 50em;
+
 
 
 }
@@ -274,17 +266,17 @@ div#pho {
     margin-top: -3%;
     margin-bottom: 8%;
     box-shadow: 15px 15px 15px black;
-    border-radius:30%;
-    -webkit-border-radius:30%;
-    -moz-border-radius:30%;
-    -ms-border-radius:30%;
-    -o-border-radius:30%;
+    border-radius: 30%;
+    -webkit-border-radius: 30%;
+    -moz-border-radius: 30%;
+    -ms-border-radius: 30%;
+    -o-border-radius: 30%;
 }
 
 .air1 {
-    background-color:  #226D68;
+    background-color: white;
     color: black;
-    border:1px solid ;
+    border: 1px solid;
     line-height: 70px;
     font-size: 25px;
     text-align: center;
@@ -294,11 +286,11 @@ div#pho {
     margin-right: 5%;
     white-space: pre;
     box-shadow: 15px 15px 15px black;
-    border-radius: 50em;
+
 }
 
 .de {
-    background-color:#226D68;
+    background-color: #C7F2A4;
     line-height: 350%;
     margin-right: 30%;
     margin-left: 30%;
@@ -318,16 +310,16 @@ div#pho {
     text-decoration: none;
     text-align: center;
     color: black;
-    transition: 0.5s ease-in-out ;
-    -webkit-transition: 0.5s ease-in-out ;
-    -moz-transition: 0.5s ease-in-out ;
-    -ms-transition: 0.5s ease-in-out ;
-    -o-transition: 0.5s ease-in-out ;
+    transition: 0.5s ease-in-out;
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -ms-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
 }
 
 
 .nos {
-    background-color:#226D68;
+    background-color: #C7F2A4;
     margin-top: 10px;
     margin-bottom: 50px;
     box-shadow: 15px 15px 15px black;
@@ -382,25 +374,25 @@ div#pho {
 }
 
 .voir a:hover {
-    background-color:#18534F;
-    color:black;
-    border-color:#18534F;
+    background-color: #18534F;
+    color: black;
+    border-color: #18534F;
     border-radius: 80%;
     -webkit-border-radius: 80%;
     -moz-border-radius: 80%;
     -ms-border-radius: 80%;
     -o-border-radius: 80%;
-    transition: 0.85s ease-in-out ;
-    -webkit-transition: 0.85s ease-in-out ;
-    -moz-transition: 0.85s ease-in-out ;
-    -ms-transition: 0.85s ease-in-out ;
-    -o-transition: 0.85s ease-in-out ;
+    transition: 0.85s ease-in-out;
+    -webkit-transition: 0.85s ease-in-out;
+    -moz-transition: 0.85s ease-in-out;
+    -ms-transition: 0.85s ease-in-out;
+    -o-transition: 0.85s ease-in-out;
 }
 
 .foo {
     display: flex;
     margin-top: 5em;
-    background-color:#226D68;
+    background-color: #B6E388;
     color: black;
     text-decoration: none;
     height: 10em;
@@ -413,11 +405,11 @@ div#pho {
     background-color: black;
     color: #226D68;
     border-color: black;
-    transition: 0.85s ease-in-out ;
-    -webkit-transition: 0.85s ease-in-out ;
-    -moz-transition: 0.85s ease-in-out ;
-    -ms-transition: 0.85s ease-in-out ;
-    -o-transition: 0.85s ease-in-out ;
+    transition: 0.85s ease-in-out;
+    -webkit-transition: 0.85s ease-in-out;
+    -moz-transition: 0.85s ease-in-out;
+    -ms-transition: 0.85s ease-in-out;
+    -o-transition: 0.85s ease-in-out;
     border-radius: 15%;
     -webkit-border-radius: 15%;
     -moz-border-radius: 15%;
@@ -505,27 +497,31 @@ div#pho {
     margin-left: 14%;
 
 }
+
 .texte {
+
     text-align: center;
     font-size: xx-large;
     line-height: 2em;
     margin-left: 12%;
     margin-right: 5%;
-    background-color::#226D68;
+    background-color: :#226D68;
     color: black;
     font-size: x-large;
-    border-radius:1em;
+    border-radius: 1em;
     border: 5px solid black;
     box-shadow: 4px 4px 4px 4px black;
     margin-bottom: 10%;
-    -webkit-border-radius:1em;
-    -moz-border-radius:1em;
-    -ms-border-radius:1em;
-    -o-border-radius:1em;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    -ms-border-radius: 1em;
+    -o-border-radius: 1em;
 }
+
 form {
     /* Uniquement centrer le formulaire sur la page */
-    margin-right:30%;
+
+    margin-right: 30%;
     margin-left: 38%;
     font-size: x-large;
     width: 400px;
@@ -535,55 +531,60 @@ form {
     border-radius: 1em;
     text-align: center;
     box-shadow: 4px 4px 4px 4px black;
-  }
-  
-  form div + div {
+}
+
+form div+div {
+
     margin-top: 1em;
-  
-  }
-  
-  label {
+
+}
+
+label {
     /* Pour être sûrs que toutes les étiquettes ont même taille et sont correctement alignées */
     display: inline-block;
     width: 120px;
 
-  }
-  
-  input, textarea {
+}
+
+input,
+textarea {
     /* Pour s'assurer que tous les champs texte ont la même police.
        Par défaut, les textarea ont une police monospace */
     font: 1em sans-serif;
-  
+
     /* Pour que tous les champs texte aient la même dimension */
     width: 300px;
     box-sizing: border-box;
-  
+
     /* Pour harmoniser le look & feel des bordures des champs texte */
     border: 1px solid #999;
-    
-  }
-  
-  input:focus, textarea:focus {
+
+}
+
+input:focus,
+textarea:focus {
     /* Pour souligner légèrement les éléments actifs */
     border-color: #000;
-    
-    
-  }
-  
-  textarea {
+
+
+}
+
+textarea {
     /* Pour aligner les champs texte multi‑ligne avec leur étiquette */
+
     vertical-align: top;
-    
-  
+
+
     /* Pour donner assez de place pour écrire du texte */
     height: 5em;
-    
-  }
-  
-  .button {
+
+}
+
+.button {
+
     /* Pour placer le bouton à la même position que les champs texte */
     margin-right: 20%;
-    padding-left: 90px; /* même taille que les étiquettes */
+    padding-left: 90px;
+    /* même taille que les étiquettes */
 
-  }
-  
+}
