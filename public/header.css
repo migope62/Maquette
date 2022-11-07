@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#B6E388;
+}
+
+.menu {
+    display: flex;
+    /* Transformation en flexbox */
+    /* Suppression des marges internes */
+    background-color:;
+    /* Ajout de la couleur d'arrière-plan */
+    justify-content: center;
+    margin-bottom: 5%;
+    box-shadow: 2px 2px 2px black;
+    width: 100%;
+
+
+}
+
+
+.menu li {
+    list-style-type: none;
+    /*Suppressiondespuces*/float: left;
+    color:black;
+   
+}
+
+.menu a {
+    display: block;
+    /*Transformationenblock*/min-width: 220px;
+    /*Largeurminimaledesliens*/margin: 10px;
+    /*Margesexternes(1valeurs=4directions)*/padding: 10px;
+    /*Margesinternes(2valeurs=haut/basetgauche/droite)*/text-align: center;
+    /*Centragedutexte*/color:black;
+    /*Couleurdutexte*/text-decoration: none;
+    /*Suppressiondusoulignement*/font-size: x-large;
+    background-color:#B6E388;
+    border-radius: 80%;
+    transition: 0.85s ease-in-out ;
+    -webkit-transition: 0.85s ease-in-out ;
+    -moz-transition: 0.85s ease-in-out ;
+    -ms-transition: 0.85s ease-in-out ;
+    -o-transition: 0.85s ease-in-out ;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
+h1 {
+    background-color:#C7F2A4;
+    line-height: 300%;
+    font-size: xx-large;
+    border-radius: 5%;
+    color:black;
+    margin-bottom: 5%;
+    text-align: center;
+    box-shadow: 2px 2px 2px black;
+    font-family: 'Alkalami', serif;
+font-family: 'Heebo', sans-serif;
+
+}
