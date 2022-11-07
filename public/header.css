@@ -1,13 +1,16 @@
 body {
     margin: 0;
     padding: 0;
+
     background-color:white;
+
 }
 
 .menu {
     display: flex;
     /* Transformation en flexbox */
     /* Suppression des marges internes */
+
     /* Ajout de la couleur d'arrière-plan */
     justify-content: center;
     margin-bottom: 5%;
@@ -34,7 +37,9 @@ body {
     /*Centragedutexte*/color:black;
     /*Couleurdutexte*/text-decoration: none;
     /*Suppressiondusoulignement*/font-size: x-large;
+
     background-color:rgb(99, 99, 99);
+
     border-radius: 80%;
     transition: 0.85s ease-in-out ;
     -webkit-transition: 0.85s ease-in-out ;
@@ -44,7 +49,13 @@ body {
 
 }
 h1 {
+    background-color:#C7F2A4;
+
+
+}
+h1 {
     background-color:rgb(99, 99, 99);
+
     line-height: 300%;
     font-size: xx-large;
     border-radius: 5%;
