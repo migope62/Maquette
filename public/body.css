@@ -162,7 +162,8 @@ div#pho {
     margin-top: 35%;
     margin-right: 55%;
     margin-left: 22%;
-    margin-bottom: 6 border: 1px solid;
+    margin-bottom: 6 ;
+    border: 1px solid;
     white-space: pre;
 
 
@@ -505,7 +506,7 @@ div#pho {
     line-height: 2em;
     margin-left: 12%;
     margin-right: 5%;
-    background-color: :#226D68;
+    background-color:#226D68;
     color: black;
     font-size: x-large;
     border-radius: 1em;
