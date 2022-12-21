@@ -15,7 +15,6 @@ mongoose.connect('mongodb://localhost/pas', { useNewUrlParser: true });
 const userSchema = new mongoose.Schema({
     name: String,
     mail: String,
-    
 
 })
 const forms_schema = mongoose.Schema(
